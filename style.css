@@ -1,0 +1,16 @@
+.nav-link {
+    color:white;  /*makes navbar text white*/
+    font-weight: bold; /*makes the navbar texts bold*/
+}
+.footer {
+    background-color: rgb(46,50,54); /* Set background color */
+    padding: 40px 0; /* Add padding */
+    text-align: center; /* aligns the content in the grids to centre */
+    color:antiquewhite; /*footer color*/
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 11em;
+  }
+
+
